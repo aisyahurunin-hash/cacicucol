@@ -1,0 +1,6 @@
+{
+  "name": "CACICUCOL",
+  "description": "A vibrant pixel-art 2D platformer adventure with 6 selectable characters, 6 themed levels, 5-heart survival, bouncing coin physics, and full chiptune audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
